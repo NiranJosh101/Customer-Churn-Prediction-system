@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Customer_Churn_Prediction_System
+Version: 0.1
+Author: Sudhanshu
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: setuptools
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist
